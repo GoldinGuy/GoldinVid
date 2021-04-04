@@ -3294,10 +3294,10 @@
   "resolved" "https://registry.npmjs.org/caseless/-/caseless-0.12.0.tgz"
   "version" "0.12.0"
 
-"catalyst-vc-react@^1.3.4":
-  "integrity" "sha512-E/376ecu+iOZ81T4vdqvTfUOkJ8F65uje1Pp0LpmZUl0c9n1++a/etM/O+Q7S3NTWLXks1LAOd+f+VLyxINTJQ=="
-  "resolved" "https://registry.npmjs.org/catalyst-vc-react/-/catalyst-vc-react-1.3.4.tgz"
-  "version" "1.3.4"
+"catalyst-vc-react@^1.4.0":
+  "integrity" "sha512-hftEBbdQnMNT8ydFTHwrdK1sM+55Li79xTOtu5iqnOQvIIS2bKuICVpIuSOAr7asp9cjTqqZ9F/C+4orvgfYNQ=="
+  "resolved" "https://registry.npmjs.org/catalyst-vc-react/-/catalyst-vc-react-1.4.0.tgz"
+  "version" "1.4.0"
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.34"
     "@fortawesome/free-solid-svg-icons" "^5.15.2"
