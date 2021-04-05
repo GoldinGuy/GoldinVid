@@ -7,7 +7,7 @@ import { BrowserRouter, Redirect, Route, Switch } from "react-router-dom";
 
 ReactDOM.render(
 	<React.StrictMode>
-		<BrowserRouter>
+		<BrowserRouter basename="/">
 			<Switch>
 				<Route path="/:id" exact component={App} />
 				<Redirect path="/" to="/lounge" />
