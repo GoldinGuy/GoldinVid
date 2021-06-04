@@ -3333,9 +3333,9 @@
   "version" "0.12.0"
 
 "catalyst-vc-react@^2.0.0":
-  "integrity" "sha512-WkfACO1/hVzvMVBdQ3OOWn8arcOZrPLkkNsBmWAgz04T81Bsrmx9tJe8tdF4tcA7Lk6rwxJiF5mE+GxzxweTGA=="
-  "resolved" "https://registry.npmjs.org/catalyst-vc-react/-/catalyst-vc-react-2.0.0.tgz"
-  "version" "2.0.0"
+  "integrity" "sha512-+yMiUBh/EafZVzdAfgEu9lZHqQphM4G537XTt8xnLcpzuwo+cy5NPaMrbi6l9eXp3V+Q73RE017y61bRTTXgxg=="
+  "resolved" "https://registry.npmjs.org/catalyst-vc-react/-/catalyst-vc-react-2.0.2.tgz"
+  "version" "2.0.2"
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.34"
     "@fortawesome/free-solid-svg-icons" "^5.15.2"

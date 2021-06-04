@@ -20,7 +20,7 @@ function App() {
 			onSubmitLog={(log: string) => {
 				console.log("received: " + log);
 			}}
-			themeColor="indigo"
+			themeColor="teal"
 		/>
 	);
 }
